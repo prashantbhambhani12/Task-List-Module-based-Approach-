@@ -3,7 +3,7 @@
 ### Task List (Module Based Approach)
 
 # Description
-### This is task list created with vanilla javascript with module based structure defined in ecma standards
+#### I must say that the code here in js folder is clean, organized and above-all REUSABLE. It's just PURE VANILLA JAVASCRIPT but the approach is based on modules structure, defined in ecma script.
 
 # Structure
 
@@ -25,9 +25,6 @@ b) events.js (It was created to create modules(reusable functions) that can atta
 elements and do the task mentioned in the callback function when the event gets fired)
 
 c) function.js (This file hold the functions that can be invoked to make repeated tasks easier)
-
-I must say that the code here in js folder is clean, organized and above-all REUSABLE. It's just PURE VANILLA JAVASCRIPT but the
-approach is based on modules structure, defined in ecma script.
 ## Features
 
 - Fully Responsive
